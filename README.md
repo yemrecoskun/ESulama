@@ -13,6 +13,7 @@
  - Python
  - Arduino Editör
  - Firebase
+ - PHP,HTML,CSS,JS
  ## Projemizini çalışma prensibi:
  ## Aşağıdaki şartları inceleyelim, 
 - su deposundaki su yeterliliği %30’un altında ise(su seviyesi sensörü), 

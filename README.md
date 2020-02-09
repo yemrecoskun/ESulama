@@ -1,3 +1,4 @@
+# English Readme: [README-EN.md](https://github.com/yemrecoskun/ESulama/blob/master/README-EN.md)
 # ESulama
  ## Projemizde kullanılan araç-gereçler:
  ### Kartlar

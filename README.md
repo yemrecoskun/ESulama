@@ -46,3 +46,4 @@ Uygulamamızın takip durumu için Web Tabanlı kullanarak yapmaya karar verdik 
 * Canlı veri grafiği, sensörlerin canlı verileri ekranda gösterir. 
 * Otomatik sulama aktif/pasif yapılabilir.
 * Manuel sulama uygulanabilir.
+ 

@@ -21,7 +21,7 @@
 - hava durumunun yağmurlu olup olmaması (yağmur sensörü),
 - ortam ışığının yeterliliği %5’in altında ise(ışık sensörü),
   
-  gibi şartları sağlıyorsa su motorunun çalışlabiir hâle gelir.
+  gibi şartları sağlıyorsa su motorunun çalışılabilir hâle gelir.
 
  ## Sistem daha sonra su motoru ile otomatik/manuel sulama yapabilmektedir.
  ### Otomatik sulama sisteminde 
